@@ -1,0 +1,3 @@
+# LICENSE
+
+## FAKE LICENSE 1
